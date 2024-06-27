@@ -12,4 +12,21 @@ During DjangoCon Europe 2023 on the first day, we made a bunch of DSF designs fo
 
 Files relating to the [official Django logo](https://www.djangoproject.com/community/logos/), including a shorened "dj" version.
 
-!["dj" in white on a green background](./logo//dj-square-white-on-green.png)
+## Unofficial brand colors
+
+| Color                   | Hex code  | Origin                                                              |
+| ----------------------- | --------- | ------------------------------------------------------------------- |
+| Official green          | `#092E20` | [Website logo page](https://www.djangoproject.com/community/logos/) |
+| Website text            | `#0C3C26` | Website CSS                                                         |
+| Website dark green      | `#0C4B33` | Website CSS                                                         |
+| Website secondary green | `#20AA76` | Website CSS                                                         |
+| Website light green     | `#93D7B7` | Website CSS                                                         |
+| Secondary lime          | `#89E7C3` | Website CSS                                                         |
+| Official white          | `#FFFFFF` | It’s white                                                          |
+| Website dark red        | `#6A0E0E` | Website CSS                                                         |
+| Django Girls+ orange    | `#FF8D02` | [DjangoGirls/resources](https://github.com/DjangoGirls/resources)   |
+| Django pony light pink  | `#F6BFCD` | [Django pony](https://djangopony.com/)                              |
+| Django pony pink        | `#F18197` | [Django pony](https://djangopony.com/)                              |
+| Django pony purple      | `#642982` | [Django pony](https://djangopony.com/)                              |
+
+![Unofficial brand colors swatch](./.github/unofficial-brand-colors-swatch.svg)
