@@ -30,3 +30,7 @@ Files relating to the [official Django logo](https://www.djangoproject.com/commu
 | Django pony purple      | `#642982` | [Django pony](https://djangopony.com/)                              |
 
 ![Unofficial brand colors swatch](./.github/unofficial-brand-colors-swatch.svg)
+
+## Accessibility team
+
+![Four accessibility-themed Django ponies, repeated twice over white and black background](./accessibility-team/accessibility-team-pony-variations.png)
