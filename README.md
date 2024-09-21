@@ -10,6 +10,10 @@ The Django logo uses [DTL Prokyon](http://www.dutchtypelibrary.nl/Prokyon_rdrct.
 
 Files relating to the [official Django logo](https://www.djangoproject.com/community/logos/), including a shortened "dj" version.
 
+## Pony mascot
+
+The [Django pony](https://djangopony.com/) is available on iStock Photo: [Fairy Tale Vector Elements stock illustration](https://www.istockphoto.com/vector/fairy-tale-vector-elements-gm91230581-3355498?st=3eb57c4). They were created by Erik DePrince. Reuse of the iStock Photo assets requires a paid license, and can only be within the permitted uses of the license. In particular, unless specially purchased, the license only allows a single user of the source files.
+
 ## Unofficial brand colors
 
 | Color                   | Hex code  | Origin                                                              |
