@@ -12,7 +12,11 @@ Files relating to the [official Django logo](https://www.djangoproject.com/commu
 
 ## Pony mascot
 
-The [Django pony](https://djangopony.com/) is available on iStock Photo: [Fairy Tale Vector Elements stock illustration](https://www.istockphoto.com/vector/fairy-tale-vector-elements-gm91230581-3355498?st=3eb57c4). They were created by Erik DePrince. Reuse of the iStock Photo assets requires a paid license, and can only be within the permitted uses of the license. In particular, unless specially purchased, the license only allows a single user of the source files.
+The [Django pony](https://djangopony.com/) is available on iStock Photo: [Fairy Tale Vector Elements stock illustration](https://www.istockphoto.com/vector/fairy-tale-vector-elements-gm91230581-3355498?st=3eb57c4). They were created by Erik DePrince. Reuse of the iStock Photo assets requires a paid license, and can only be within the permitted uses of the license. In particular, unless specially purchased, the license only allows a single user of the source files. See [extended license](https://www.istockphoto.com/help/licenses).
+
+Here’s a sample of using the pony, as a [Sticker Mule holographic sticker](https://www.stickermule.com/products/holographic-stickers):
+
+![Holographic Django pony sticker preview from Sticker Mule](dsf-stickers-and-pins/django-pony-holo.png)
 
 ## Unofficial brand colors
 
