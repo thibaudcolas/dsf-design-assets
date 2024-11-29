@@ -45,4 +45,13 @@ During DjangoCon Europe 2023 on the first day, we made a bunch of DSF designs fo
 
 ## Accessibility team
 
+Using the base pony design, combined with added visuals symbolizing different accessibility needs.
+
 ![Four accessibility-themed Django ponies, repeated twice over white and black background](./accessibility-team/accessibility-team-pony-variations.png)
+
+- The sunglasses represent visual impairments. It comes [from the Noun project](https://thenounproject.com/icon/sunglasses-6294988/) image #6294988, art by [M Syaiful Anshari](https://thenounproject.com/creator/ansharyms/).
+- The cane also represents visual impairments. It comes [from OpenMoji - white cane](https://openmoji.org/library/emoji-1F9AF/).
+- The wheelchair represents mobility impairments.
+- The cast represents a broken leg - trying to speak to the social model of accessibility (it’s not just permanent conditions).
+
+We also considered a [sunflower hidden disability pony](https://hdsunflower.com/). That will likely make it for a future set.
