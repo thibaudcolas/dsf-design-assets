@@ -55,3 +55,9 @@ Using the base pony design, combined with added visuals symbolizing different ac
 - The cast represents a broken leg - trying to speak to the social model of accessibility (it’s not just permanent conditions).
 
 We also considered a [sunflower hidden disability pony](https://hdsunflower.com/). That will likely make it for a future set.
+
+## Social media
+
+Social media assets in use for individual posts or profiles
+
+![Trophy with confetti, CHAOSS DEI Bronze badge, Django logo](./social-media/CHAOSS%20badge%20social%20media%20artwork.webp)
