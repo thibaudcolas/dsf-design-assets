@@ -20,20 +20,22 @@ Here’s a sample of using the pony, as a [Sticker Mule holographic sticker](htt
 
 ## Unofficial brand colors
 
-| Color                   | Hex code  | Origin                                                              |
-| ----------------------- | --------- | ------------------------------------------------------------------- |
-| Official green          | `#092E20` | [Website logo page](https://www.djangoproject.com/community/logos/) |
-| Website text            | `#0C3C26` | Website CSS                                                         |
-| Website dark green      | `#0C4B33` | Website CSS                                                         |
-| Website secondary green | `#20AA76` | Website CSS                                                         |
-| Website light green     | `#93D7B7` | Website CSS                                                         |
-| Secondary lime          | `#89E7C3` | Website CSS                                                         |
-| Official white          | `#FFFFFF` | It’s white                                                          |
-| Website dark red        | `#6A0E0E` | Website CSS                                                         |
-| Django Girls+ orange    | `#FF8D02` | [DjangoGirls/resources](https://github.com/DjangoGirls/resources)   |
-| Django pony light pink  | `#F6BFCD` | [Django pony](https://djangopony.com/)                              |
-| Django pony pink        | `#F18197` | [Django pony](https://djangopony.com/)                              |
-| Django pony purple      | `#642982` | [Django pony](https://djangopony.com/)                              |
+For an official color palette, see the [website style guide - colors](https://www.djangoproject.com/styleguide/#colors).
+
+| Color                   | Hex code  | Origin                                                                                                                                         |
+| ----------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Official green          | `#092E20` | [Website logo page](https://www.djangoproject.com/community/logos/)                                                                            |
+| Website text            | `#0C3C26` | Website CSS                                                                                                                                    |
+| Website dark green      | `#0C4B33` | Website CSS                                                                                                                                    |
+| Website secondary green | `#20AA76` | Website CSS                                                                                                                                    |
+| Website light green     | `#93D7B7` | Website CSS                                                                                                                                    |
+| Secondary lime          | `#89E7C3` | Website CSS                                                                                                                                    |
+| Website dark red        | `#6A0E0E` | Website CSS                                                                                                                                    |
+| Old school yellow       | `#FFC757` | Legacy CSS, [Django badges](https://www.djangoproject.com/community/badges/), [Django Read the Docs](https://django.readthedocs.io/en/stable/) |
+| Django Girls+ orange    | `#FF8D02` | [DjangoGirls/resources](https://github.com/DjangoGirls/resources)                                                                              |
+| Django pony light pink  | `#F6BFCD` | [Django pony](https://djangopony.com/)                                                                                                         |
+| Django pony pink        | `#F18197` | [Django pony](https://djangopony.com/)                                                                                                         |
+| Django pony purple      | `#642982` | [Django pony](https://djangopony.com/)                                                                                                         |
 
 ![Unofficial brand colors swatch](./.github/unofficial-brand-colors-swatch.svg)
 
@@ -61,3 +63,5 @@ We also considered a [sunflower hidden disability pony](https://hdsunflower.com/
 Social media assets in use for individual posts or profiles
 
 ![Trophy with confetti, CHAOSS DEI Bronze badge, Django logo](./social-media/CHAOSS%20badge%20social%20media%20artwork.webp)
+
+## Design history
