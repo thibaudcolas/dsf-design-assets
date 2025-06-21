@@ -16,7 +16,13 @@ The [Django pony](https://djangopony.com/) is available on iStock Photo: [Fairy 
 
 Here’s a sample of using the pony, as a [Sticker Mule holographic sticker](https://www.stickermule.com/products/holographic-stickers):
 
-![Holographic Django pony sticker preview from Sticker Mule](dsf-stickers-and-pins/django-pony-holo.png)
+![Holographic Django pony sticker preview from Sticker Mule](dsf-stickers-and-pins/django-pony-holo-60-small-avif.avif)
+
+## Django heart
+
+The iconic pixelated pink heart has been in use on the Django website since early 2015, as part of the fundraising page (see issues [#291](https://github.com/django/djangoproject.com/issues/291) and [#293](https://github.com/django/djangoproject.com/issues/293)). It was initially designed as part of [Pixel Pictures for Django girls Wroclaw](https://www.behance.net/gallery/22813321/Pixel-Pictures-for-Django-girls-Wroclaw-#) by Magdalena Warzecha, and is heavily associated with [Django Girls](https://djangogirls.org/en/) in addition to its use for Django fundraising.
+
+![Django pixelated pink heart](./website-assets/django-heart.png)
 
 ## Unofficial brand colors
 
